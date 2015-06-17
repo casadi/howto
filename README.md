@@ -1,4 +1,4 @@
-This how-to shows you how to interface your own solver to casadi.
+Goal: show how to interface your own solver via c++, producing a plugin library
 
 Step 1. Obtain a binary build of CasADi from http://files.casadi.org
 
